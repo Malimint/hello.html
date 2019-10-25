@@ -2,18 +2,6 @@
 
 <html lang="eg">
 
-<head>
-
-    <meta charset="utf-8">
-    <title> San francisco</title>
-
-    <link rel="stylesheet"  type="text/css" href="style.css">
-
-    <link rel="stylesheet"  href="style2.css" media="(max-width:900px)">
-
-
-    </head>
-
 
 
 	<header>
